@@ -1,4 +1,5 @@
-
+// Originally from: https://github.com/TheDudeFromCI/Mineflayer-Youtube-Tutorials
+// Licensed under MIT License
 
 const mineflayer = require('mineflayer')
 const collectBlockPlugin = require('mineflayer-collectblock').plugin
